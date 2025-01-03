@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD Connection Service RS'
+define service ZSRV_CONNECTION_RS {
+  expose ZI_CONNECTION_RS;
+}
